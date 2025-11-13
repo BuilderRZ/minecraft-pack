@@ -1,0 +1,2 @@
+# minecraft-pack
+mcpack
